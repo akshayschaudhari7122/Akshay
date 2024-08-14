@@ -1,0 +1,13 @@
+
+
+Patient : (user)
+1.Crude Operation. 3 api
+    UserREpository findByUsernumber fetch- get,update,---delete(LoginREpositiry use Email)
+	
+2. Patient Book Appointment PathVariable Usernumber
+   Appointment: id,date,time,patient_name,age,gender,category,specificdrname,referenceDr,
+               location,mobilenumber,email,Blood group,visittype,Problems History.
+			Admin Role :    
+			   2 configuartion DataTable : - 1. All Doctor and Their spec. Holding Data.2 VistType;
+			   
+			   "date":"24-Aug-24" "time":"10:30"
